@@ -64,6 +64,11 @@ Select the extensions you want included in your project.  The LibGDX maintained 
 - **[Ashley](https://github.com/libgdx/ashley)**:A tiny entity framework.<br>
 - **[Ai](https://github.com/libgdx/gdx-ai)**: An artificial intelligence framework.<br>
 
+#### **Potential issues**
+
+If your development environment is not quite right, it is possible that you will get various 'FAILURE' messages in the log related to gradle. 
+Do not panic! Most likely you can safely ignore them at this stage. Simply [import the generated project](Importing into IDE.md) and solve any gradle issues then. If its not there, the setup app can not write to specified location.
+
 <br>
 ## Extras
 <hr>
